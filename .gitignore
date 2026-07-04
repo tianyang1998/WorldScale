@@ -1,2 +1,6 @@
 .DS_Store
 Thumbs.db
+
+# Build zips live here for convenience but ship via GitHub Releases /
+# itch.io — never commit them (GitHub blocks files >100MB)
+*.zip
