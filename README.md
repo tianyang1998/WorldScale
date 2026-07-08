@@ -69,7 +69,7 @@ Tech, and both count toward your total power.
 ## Download & play
 
 - **[Download on itch.io](https://tianyang1998.itch.io/world-scale)** — recommended
-- **[GitHub Releases](../../releases)** — `WorldScale for Windows.zip` / `WorldScale for Mac.zip`
+- **[GitHub Releases](../../releases)** — `WorldScale-Windows-v1.0.0.zip` / `WorldScale-Mac-v1.0.0.zip`
 
 ### Windows
 
