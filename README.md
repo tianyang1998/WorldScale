@@ -10,6 +10,8 @@ raid bosses.
 
 ![Exploring the city realm](Screenshots/city-realm.jpeg)
 
+**[▶ Watch the full walkthrough on YouTube](https://youtu.be/ku26IHZINKQ)** — from signup to a co-op boss raid in 20 minutes.
+
 ---
 
 ## How it works
@@ -66,9 +68,8 @@ Tech, and both count toward your total power.
 
 ## Download & play
 
-<!-- TODO: replace with the real itch.io URL when the page is live -->
-- **itch.io** — link coming soon
-- **[GitHub Releases](../../releases)** — grab the latest `WorldScale.zip`
+- **[Download on itch.io](https://tianyang1998.itch.io/world-scale)** — recommended
+- **[GitHub Releases](../../releases)** — `WorldScale for Windows.zip` / `WorldScale for Mac.zip`
 
 ### Windows
 
